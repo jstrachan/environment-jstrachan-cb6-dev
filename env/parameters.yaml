@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jstrachan-cb6/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: james.strachan@gmail.com
+  token: local:jstrachan-cb6/pipelineUser:token
+  username: jstrachan
+prow:
+  hmacToken: local:jstrachan-cb6/prow:hmacToken
